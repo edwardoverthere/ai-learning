@@ -22,10 +22,13 @@ No code this week. Build an accurate intuition of what an LLM actually does.
 
 **Resources:**
 
-- [Intro to Large Language Models — Andrej Karpathy](https://www.youtube.com/watch?v=zjkBMFhNj_g) (1 hr) (https://youtu.be/zjkBMFhNj_g?si=zuDNiJvWIftKbb3U&t=1441)
-- [Deep Dive into LLMs like ChatGPT — Andrej Karpathy](https://www.youtube.com/watch?v=7xTGNNLPyMI) (3.5 hrs)
-- [OpenAI Tokenizer playground](https://platform.openai.com/tokenizer) — paste text, see tokens
-- [What Is ChatGPT Doing… and Why Does It Work? — Stephen Wolfram](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) (optional, deeper)
+- [ ] [Intro to Large Language Models — Andrej Karpathy](https://www.youtube.com/watch?v=zjkBMFhNj_g) (1 hr)
+- [ ] [Deep Dive into LLMs like ChatGPT — Andrej Karpathy](https://www.youtube.com/watch?v=7xTGNNLPyMI) (3.5 hrs)
+- [ ] [OpenAI Tokenizer playground](https://platform.openai.com/tokenizer) — paste text, see tokens
+- [ ] [What Is ChatGPT Doing… and Why Does It Work? — Stephen Wolfram](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) (optional, deeper)
+
+Current progress:
+https://youtu.be/zjkBMFhNj_g?si=zuDNiJvWIftKbb3U&t=1441
 
 **Deliverable:** None. Watch, read, take notes.
 
